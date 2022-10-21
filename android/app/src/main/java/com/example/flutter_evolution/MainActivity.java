@@ -1,4 +1,4 @@
-package com.example.flutterevolution;
+package com.example.flutter_evolution;
 
 import android.os.Bundle;
 import io.flutter.app.FlutterActivity;
